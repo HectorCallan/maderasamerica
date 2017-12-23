@@ -1,0 +1,22 @@
+{
+"processing":     "Procesando en curso...",
+"search":         "Buscar:",
+"lengthMenu":     "Mostrar _MENU_ filas",
+"info":           "Mostrando _START_ a _END_ de _TOTAL_ entradas",
+"infoEmpty":      "No existe datos",
+"infoFiltered":   "(filtro de _MAX_ total encontrados)",
+"infoPostFix":    "",
+"loadingRecords": "Cargando en curso...",
+"zeroRecords":    "No se encontro ningun dato, disculpe",
+"emptyTable":     "No hay datos en la tabla",
+"paginate": {
+    "first":      "Primero",
+    "previous":   "Anterior",
+    "next":       "Siguiente",
+    "last":       "Último"
+},
+"aria": {
+    "sortAscending":  "activar para ordenar ascendente",
+    "sortDescending": "activar para ordenar descendente"
+}
+}

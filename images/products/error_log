@@ -1,0 +1,2 @@
+[14-Nov-2017 12:43:36 America/Chicago] PHP Warning:  require_once(/../conex/ClsConexion.php): failed to open stream: No such file or directory in /home/admcreat/public_html/maderas/admin/class/ClsSlider.php on line 1
+[14-Nov-2017 12:43:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/../conex/ClsConexion.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/admcreat/public_html/maderas/admin/class/ClsSlider.php on line 1
